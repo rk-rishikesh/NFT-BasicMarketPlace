@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Market Place/Rishikesh.sol": "SafeMath"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Market Place/Rishikesh.sol": {
+			"keccak256": "0xe24c9dcdda8295c114c8fcf7f47c1889ea5fee1134dcf9c43b2286f67c644b21",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://bf5273372f0cf0f48d61cf5c9246ff529b50724b1654c7d58511f2d020e48b59",
+				"dweb:/ipfs/QmTqtT3jn18g3CVmgiMi3GboWCpxWLVkJotDSdEMoAondj"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,39 @@
+{
+	"compiler": {
+		"version": "0.5.0+commit.1d4f565a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"author": "Matt Condon (@shrugs)\r",
+			"details": "Provides counters that can only be incremented or decremented by one. This can be used e.g. to track the number\r of elements in a mapping, issuing ERC721 ids, or counting request ids.\r  * Include with `using Counters for Counters.Counter;`\r Since it is not possible to overflow a 256 bit integer with increments of one, `increment` can skip the SafeMath\r overflow check, thereby saving gas. This does assume however correct usage, in that the underlying `_value` is never\r directly accessed.\r",
+			"methods": {},
+			"title": "Counters\r"
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Market Place/ERC721Full.sol": "Counters"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Market Place/ERC721Full.sol": {
+			"keccak256": "0x4a5ea679cd0ee338c919eb3972c2e663c9be136435210f7b39e924e6bcdcbab9",
+			"urls": [
+				"bzzr://ecf2f8a77acf2c4da87d0f1a87d7d66b2cf163ab9dfc10f65535ac9aa7bd1334"
+			]
+		}
+	},
+	"version": 1
+}
