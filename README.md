@@ -7,7 +7,7 @@
                       
                     - Buy, Sell and Mint NFT
                     
-                    - Create 3 different SC For ERC20, ERC721 and Marketplace 
+                    - Different SC For ERC20, ERC721 and Marketplace 
                     
 ## Run on Remix IDE
          STEP I  :      Load the folder : NFT-MarketPlace/Remix IDE/Market Place/  in Remix IDE workspace
